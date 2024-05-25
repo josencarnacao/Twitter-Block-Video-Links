@@ -9,6 +9,7 @@ I went to Bing and using CoPilot by Microsoft I made the querie:
 — Make me a Tampermonkey script that will block opening a new tab or exiting Twitter if a video with link is clicked.
 
 
+
 And it spewed:
 
 Sure, here’s a basic Tampermonkey script that should prevent opening a new tab when clicking on a video link on Twitter. This script works by intercepting click events on video elements and preventing their default action.
