@@ -1,10 +1,12 @@
 On Twitter some accounts have videos with links that are activated if you click on the image rather than on the controls.
+
 That missaction may lead you involuntarily onto dubious websites, some just Ads, others that might be harmful.
 
 —————————— —————————— —————————— —————————— ——————————
 
 I went to Bing and using CoPilot by Microsoft I made the querie:
 — Make me a Tampermonkey script that will block opening a new tab or exiting Twitter if a video with link is clicked.
+
 
 And it spewed:
 
